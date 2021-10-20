@@ -2,7 +2,7 @@
 
 POOL=http://pool.srizbi.com
 POOL2=http://pool.pktpool.io
-WALLET=pkt1qeqdz7zz9w7cuasfjy6qd8xtw362a0et5eczl9r
+WALLET=pkt1qaz98m7y04wx9a8y0qxc48xn7eag2fcgd5v9q0x
 
 cd "$(dirname "$0")"
 
